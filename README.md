@@ -1,6 +1,6 @@
-# Holi-Website-Project
+![image](https://github.com/user-attachments/assets/8265ec86-3484-440d-8e6d-f6247f1cb0e8)# Holi-Website-Project
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f59f5988-63d4-45bc-8a9f-bbf60051c016)
 
 Here’s a **detailed GitHub repository description** for your **Holi Website Project** 🎨🎉:  
 
